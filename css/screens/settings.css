@@ -1,0 +1,22 @@
+.settings-screen {
+  margin-top: 90px;
+}
+
+.settings__setting {
+  padding: 30px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.089);
+  font-size: 21px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.settings__setting i {
+  margin-right: 20px;
+  font-size: 23px;
+  opacity: 0.8;
+}
+
+.settings__setting-column:last-child {
+  opacity: 0.7;
+}
